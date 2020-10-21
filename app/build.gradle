@@ -3,7 +3,7 @@ apply plugin: 'androidx.navigation.safeargs'
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.1"
+    buildToolsVersion "30.0.2"
 
     defaultConfig {
         applicationId "id.ac.polinema.skor"
@@ -39,4 +39,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     androidTestImplementation 'androidx.test:rules:1.3.0'
+    implementation 'com.android.support:support-annotations:28.0.0'
+
 }
