@@ -2,4 +2,8 @@
     <string name="app_name">Skor</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_score_home">Add Score Home</string>
+    <string name="add_score_away">Add Score Away</string>
+    <string name="away">Away</string>
+    <string name="home">Home</string>
 </resources>

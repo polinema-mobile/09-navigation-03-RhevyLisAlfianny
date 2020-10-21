@@ -64,9 +64,7 @@ public class ScoreFragment extends Fragment {
 
 			}
 		});
-
-		//GoalScorer goalScorer = requireArguments().getParcelable("goalScorer");
-		//binding.setScore(goalScorer);
+		
 		return binding.getRoot();
 	}
 	public void onAddHomeClick(View view) {
